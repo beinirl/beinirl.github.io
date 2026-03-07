@@ -20,6 +20,14 @@ body {
     overflow-x: hidden;
 }
 
+body {
+    font-family: "Merriweather", serif;
+}
+h1, h2 {
+    font-family: "Young Serif", serif;
+    font-weight: 400;
+}
+
 code {
     font-family: var(--mono-font) !important;
     font-size: var(--code-font-size);
